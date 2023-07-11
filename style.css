@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-container{
+    height: 50vh;
+    /* background-color: greenyellow; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+
+}
+.right-icon{
+    width: 100xp;
+    height: 300px;
+}
+.btn-primay{
+    border-radius: 8px;
+background: #E55473;
+padding: 10px;
+border: 0;
+font-size: 16px;
+color: white;
+margin-top: 10px;
+}
+.header-title{
+color: #272727;
+}
+.header-description{
+    margin-top: 10px;
+}
+.feater{
+    height: 50vh;
+    background-color: white;
+}
+.hot-deal{
+    height: 50vh;
+    /* background-color: greenyellow; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.05);
+}
