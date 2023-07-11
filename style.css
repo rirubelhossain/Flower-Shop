@@ -42,3 +42,20 @@ color: #272727;
     align-items: center;
     background: rgba(229, 84, 115, 0.05);
 }
+
+.instagram{
+    justify-content: center;
+    text-align: center;
+    
+    
+}
+.insta-img{
+    margin-top: 30px;
+   margin-right: 10px;
+     
+}
+.insta{
+    /* margin-top: 20px; */
+    /* margin-bottom: 10px; */
+    margin-top: 20px;
+}
